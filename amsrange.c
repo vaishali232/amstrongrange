@@ -3,7 +3,7 @@ int main()
 {
 unsigned long long int start,end,i,j,tempnum,ams=0,rem;
 scanf("%llu",&n);
-for(i=start;i<=end;i++)
+for(i=start+1;i<end;i++)
 {
 j=i;
 while(i>0)
