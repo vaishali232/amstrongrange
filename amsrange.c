@@ -14,7 +14,7 @@ i/=10;
 }
 if(ams==j)
 {
-printf("%llu ",i);
+printf("%llu ",j);
 }
 }
 
