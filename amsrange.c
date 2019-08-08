@@ -2,7 +2,7 @@
 int main()
 {
 unsigned long long int start,end,i,j,tempnum,ams=0,rem;
-scanf("%llu",&n);
+scanf("%llu %llu",&start,&end);
 for(i=start+1;i<end;i++)
 {
 j=i;
